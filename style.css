@@ -1,4 +1,4 @@
-/* * {
+* {
   padding: 0%;
   margin: 0%;
   text-decoration: none;
@@ -399,8 +399,6 @@ h3 {
   justify-content: space-between;
 }
 
-
-
 @media (max-width: 1024px) {
   .container {
     width: 100%;
@@ -495,4 +493,4 @@ h3 {
   .second-product-link-box {
     top: 32%;
   }
-} */
+}
